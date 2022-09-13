@@ -33,11 +33,11 @@
     animation: wiggle 1s linear 5s 3 normal;
 }
 .myNameRef {
-    color:black;
+    color:#3291b1;
 }
 
 .myNameRef:hover {
-    color:red;
+    color: #465e72;
 }
 p {
     text-indent: 30px;
@@ -58,7 +58,7 @@ table, th, td {
     width: 100%;
     border-spacing: 3px;
     padding: 3px;
-    background-color: aliceblue;
+    background-color: #eaeeea;
     
 }
 body {
@@ -71,22 +71,22 @@ body {
     margin: 5%;
 }
 td.biology {
-    background-color:rgb(150, 183, 159);
+    background-color: #a0b3a1;
     text-align: center;
 }
 td.work {
-    background-color: rgb(104, 132, 146);
+    background-color: #e1c876;
     text-align: center;
 }
 td {
-    background-color: rgb(238, 243, 244);
+    background-color: #eaeeea;
 }
 td.programming {
     background-color: rgb(133, 98, 98);
     text-align: center;
 }
 td.philosophy {
-    background-color: rgb(162, 122, 154);
+    background-color: #abb0c0;
     text-align: center;
 }
 .myImage {
@@ -107,11 +107,11 @@ td.philosophy {
     font-size: 8pt;
 }
 .link {
-    color:rgb(127, 138, 255);
+    color: #557260;
     font-weight: bold;
     
 }
 .link:hover {
-    color: rgb(84, 13, 13);    
+    color: #8a9875;    
 }
 
