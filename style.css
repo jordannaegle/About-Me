@@ -37,6 +37,11 @@
     text-decoration: none;
     animation: wiggle 1s linear 5s 3 normal;
 }
+h2 {
+    font-family: myFirstFont;
+    color:#465e72;
+
+}
 .myNameRef {
     color:#3291b1;
 }
